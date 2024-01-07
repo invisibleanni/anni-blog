@@ -26,7 +26,6 @@ Next.js static blog using Notion as a Content Management System (CMS). Supports 
 
 
 ### Credit
-https://github.com/morethanmin/morethan-log
 [This repo](https://github.com/morethanmin/morethan-log)
 
 ## License
